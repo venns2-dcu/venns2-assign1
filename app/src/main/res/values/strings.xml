@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SDA 2018 Assignment 1</string>
+    <string name="mess_toast">You pressed the button</string>
+    <string name="textViewStr1">Name: Seán Venn</string>
+    <string name="textViewStr2">Student ID: 15212638</string>
+    <string name="buttonStr1">Press Me!!!</string>
+</resources>
